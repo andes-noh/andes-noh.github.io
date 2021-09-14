@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "@emotion"
+  ],
+  "presets": [
+    "@babel/typescript",
+    "@babel/react",
+    "@docusaurus/core/lib/babel/preset",
+    "@emotion/babel-preset-css-prop"
+  ]
+}

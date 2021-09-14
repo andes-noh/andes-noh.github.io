@@ -1,0 +1,23 @@
+andes:
+  name: Andes Noh
+  title: 연구원 / DC팀
+  url: https://github.com/andes-noh
+  image_url: https://github.com/andes-noh.png
+
+cannon:
+  name: Cannon Shin
+  title: 팀장 / DC팀
+  url: https://github.com/newcannon
+  image_url: https://github.com/newcannon.png
+
+david:
+  name: David Lee
+  title: 선임연구원 / DC팀
+  url: https://www.linkedin.com/in/civilizeddev/
+  image_url: https://github.com/civilizeddev.png
+
+delbert:
+  name: Delbert Jo
+  title: 선임연구원 / DC팀
+  url: https://github.com/cosy1922
+  image_url: https://github.com/cosy1922.png

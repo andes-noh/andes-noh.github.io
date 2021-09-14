@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "redvanworkshop.explorer-exclude-vscode-extension",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "codeandstuff.package-json-upgrade",
+    "silvenon.mdx",
+    "jpoissonnier.vscode-styled-components"
+  ]
+}
