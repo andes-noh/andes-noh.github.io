@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[sourcetree에서 비밀번호 바꾸는법]]></title>
+            <link>https://andes-noh.github.io/blog/sourcetree_wrongpassWord</link>
+            <guid>sourcetree_wrongpassWord</guid>
+            <pubDate>Tue, 14 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[소스트리로 git이나 그 외 저장소(space, etc....)를 접근할때 아이디와 비밀번호를 입력해야한다.]]></description>
+        </item>
+        <item>
             <title><![CDATA[useful tools in windows]]></title>
             <link>https://andes-noh.github.io/blog/windowsTools</link>
             <guid>windowsTools</guid>

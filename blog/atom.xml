@@ -8,6 +8,17 @@
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[sourcetree에서 비밀번호 바꾸는법]]></title>
+        <id>sourcetree_wrongpassWord</id>
+        <link href="https://andes-noh.github.io/blog/sourcetree_wrongpassWord"/>
+        <updated>2021-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[소스트리로 git이나 그 외 저장소(space, etc....)를 접근할때 아이디와 비밀번호를 입력해야한다.]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[useful tools in windows]]></title>
         <id>windowsTools</id>
         <link href="https://andes-noh.github.io/blog/windowsTools"/>
