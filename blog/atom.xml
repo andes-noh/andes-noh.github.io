@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-09-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[useful tools in windows]]></title>
+        <id>windowsTools</id>
+        <link href="https://andes-noh.github.io/blog/windowsTools"/>
+        <updated>2021-09-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[개발을 하다보면 다양한 툴을 사용한다. 현재 이용하는 툴은 많지만 그 중 몇가지 자주 쓰는 툴을 추천한다. (라이센스는 모두 프리웨어입니다.)]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
