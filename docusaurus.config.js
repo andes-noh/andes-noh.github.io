@@ -58,43 +58,60 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      // links: [
-      //   {
-      //     title: 'More',
-      //     items: [
-      //       {
-      //         label: 'GitHub',
-      //         href: 'https://github.com/andes-noh',
-      //       },
-      //       {
-      //         label: 'LinkedIn',
-      //         href: 'https://www.linkedin.com/in/andes-noh/',
-      //       },
-      //       {
-      //         label: 'HackerRank',
-      //         href: 'https://www.hackerrank.com/andes-noh',
-      //       },
-      //       {
-      //         label: 'Credly',
-      //         href: 'https://www.credly.com/users/hyeonsoo-lee/badges',
-      //       },
-      //     ],
-      //   },
-      //   {
-      //     title: 'Contact',
-      //     items: [
-      //       {
-      //         label: 'Email',
-      //         href: 'mailto:hyeonsoo.david.lee@gmail.com',
-      //       },
-      //     ],
-      //   },
-      // ],
-      // logo: {
-      //   alt: 'Facebook Open Source Logo',
-      //   src: 'img/oss_logo.png',
-      //   href: 'https://opensource.facebook.com',
-      // },
+      links: [
+        {
+          title: 'Related blogs',
+          items: [
+            {
+              label: 'cannon.shin',
+              href: 'https://newcannon.github.io',
+            },
+            {
+              label: 'delbert.jo',
+              href: 'https://cosy1922.github.io',
+            },
+            {
+              label: 'david.lee',
+              href: 'https://civilizeddev.github.io',
+            },
+          ],
+        },
+        // {
+        //   title: 'More',
+        //   items: [
+        //     {
+        //       label: 'GitHub',
+        //       href: 'https://github.com/andes-noh',
+        //     },
+        //     {
+        //       label: 'LinkedIn',
+        //       href: 'https://www.linkedin.com/in/andes-noh/',
+        //     },
+        //     {
+        //       label: 'HackerRank',
+        //       href: 'https://www.hackerrank.com/andes-noh',
+        //     },
+        //     {
+        //       label: 'Credly',
+        //       href: 'https://www.credly.com/users/hyeonsoo-lee/badges',
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: 'Contact',
+        //   items: [
+        //     {
+        //       label: 'Email',
+        //       href: 'mailto:hyeonsoo.david.lee@gmail.com',
+        //     },
+        //   ],
+        // },
+      ],
+      logo: {
+        alt: 'Facebook Open Source Logo',
+        src: 'img/oss_logo.png',
+        href: 'https://opensource.facebook.com',
+      },
       copyright: `Copyright © ${new Date().getFullYear()} Andes Noh. Powered by Docusaurus.`,
     },
     prism: {
