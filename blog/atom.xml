@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2021-09-14T00:00:00.000Z</updated>
+    <updated>2021-09-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[virtual machine with wsl]]></title>
+        <id>virtualMachineWithWsl</id>
+        <link href="https://andes-noh.github.io/blog/virtualMachineWithWsl"/>
+        <updated>2021-09-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[virtualbox wsl2 충돌피하는 법]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[sourcetree에서 비밀번호 바꾸는법]]></title>
         <id>sourcetree_wrongpassWord</id>

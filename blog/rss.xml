@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Tue, 14 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[virtual machine with wsl]]></title>
+            <link>https://andes-noh.github.io/blog/virtualMachineWithWsl</link>
+            <guid>virtualMachineWithWsl</guid>
+            <pubDate>Wed, 15 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[virtualbox wsl2 충돌피하는 법]]></description>
+        </item>
         <item>
             <title><![CDATA[sourcetree에서 비밀번호 바꾸는법]]></title>
             <link>https://andes-noh.github.io/blog/sourcetree_wrongpassWord</link>
