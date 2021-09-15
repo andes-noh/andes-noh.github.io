@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: '안데스의 블로그',
-  tagline: '""',
+  tagline: '"삽질도 재산이다"',
   url: 'https://andes-noh.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
