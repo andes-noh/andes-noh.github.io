@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Wed, 15 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우분투 부팅 시간 단축 (with network setting)]]></title>
+            <link>https://andes-noh.github.io/blog/reduce ubuntu booting time</link>
+            <guid>reduce ubuntu booting time</guid>
+            <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[네트워크 세팅 관련 우분투 부팅 시간 줄이는법]]></description>
+        </item>
         <item>
             <title><![CDATA[virtual machine with wsl]]></title>
             <link>https://andes-noh.github.io/blog/virtualMachineWithWsl</link>

@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2021-09-15T00:00:00.000Z</updated>
+    <updated>2022-08-09T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우분투 부팅 시간 단축 (with network setting)]]></title>
+        <id>reduce ubuntu booting time</id>
+        <link href="https://andes-noh.github.io/blog/reduce ubuntu booting time"/>
+        <updated>2022-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[네트워크 세팅 관련 우분투 부팅 시간 줄이는법]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[virtual machine with wsl]]></title>
         <id>virtualMachineWithWsl</id>
