@@ -24,6 +24,7 @@ tags: [windows, wsl2, homebrew]
   $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
   // 환경변수 등록
+  // 한라인씩
 
   $ test -d ~/.linuxbrew && eval $(~/.linuxbrew/bin/brew shellenv)
   $ test -d /home/linuxbrew/.linuxbrew && eval $(/home/linuxbrew/.  linuxbrew/bin/brew shellenv)
