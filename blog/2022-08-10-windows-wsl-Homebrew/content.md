@@ -33,4 +33,5 @@ tags: [windows, wsl2, homebrew]
 
 ## 3. 설치 확인
 
-![tobe](./tobe.png)
+- brew 입력
+  ![tobe](./tobe.png)
