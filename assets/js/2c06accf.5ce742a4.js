@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[3961],{380:e=>{e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/homebrew","name":"homebrew","count":1,"permalink":"/blog/tags/homebrew"}')}}]);

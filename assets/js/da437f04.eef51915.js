@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[5483],{3010:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/virtual-box","name":"virtual box","count":1,"permalink":"/blog/tags/virtual-box"}')}}]);

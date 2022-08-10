@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[7423],{245:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/sourcetree","name":"sourcetree","count":1,"permalink":"/blog/tags/sourcetree"}')}}]);

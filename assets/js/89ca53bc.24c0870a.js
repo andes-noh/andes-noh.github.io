@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[8262],{3903:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/booting-time","name":"booting time","count":1,"permalink":"/blog/tags/booting-time"}')}}]);
