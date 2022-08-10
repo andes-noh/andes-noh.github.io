@@ -7,7 +7,7 @@ tags: [virtual machine, virtual box, wsl]
 
 virtualbox wsl2 충돌피하는 법
 
-1. wsl 종료
+## 1. wsl 종료
 
 - cmd 관리자 모드로 실행
 
@@ -19,7 +19,7 @@ virtualbox wsl2 충돌피하는 법
 
 ![vr1](./vr1.jpg)
 
-2. wsl 시작
+## 2. wsl 시작
 
 - 마찬가지로 cmd 관리자 모드로 실행
 
