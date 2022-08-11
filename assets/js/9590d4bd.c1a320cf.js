@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[4312],{1458:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/window-package-manager","name":"window package manager","count":1,"permalink":"/blog/tags/window-package-manager"}')}}]);

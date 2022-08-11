@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Wed, 10 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도우 choco로 노드 설치해보기]]></title>
+            <link>https://andes-noh.github.io/blog/windows package choco &amp; node install</link>
+            <guid>windows package choco &amp; node install</guid>
+            <pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. chocolatey란?]]></description>
+        </item>
         <item>
             <title><![CDATA[윈도우 Homebrew 설치하기 (with wsl2)]]></title>
             <link>https://andes-noh.github.io/blog/windows wsl homebrew install</link>
