@@ -19,6 +19,11 @@ tags: [windows, choco, node, nvm, chocolatey, window package manager]
 - 관련 링크: [윈도우 choco 설치방법][install_link]
   [install_link]: <https://chocolatey.org/install#non-administrative-install> "choco install link"
 
+- 관리자 모드로 Power Shell 열기
+
+- 아래 커맨드 복사 및 붙여널기
+  `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))`
+
 - ### ※주의 사항
   - 원활한 설치를 위해서는 Power Shell을 관리자 모드로 실행할것
   - Power Shell 실행 정책(Execution Policy)으로 인해 Get-ExecutionPolicy 명령어 입력시 `Restrict` 라는 값이 나올경우
