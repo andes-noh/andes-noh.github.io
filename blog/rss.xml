@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Thu, 11 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우분투 설치 usb 만들기]]></title>
+            <link>https://andes-noh.github.io/blog/make ubuntu install usb</link>
+            <guid>make ubuntu install usb</guid>
+            <pubDate>Tue, 16 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. 준비물]]></description>
+        </item>
         <item>
             <title><![CDATA[github actions에서 사용할 token 등록하기]]></title>
             <link>https://andes-noh.github.io/blog/register github actions token</link>
