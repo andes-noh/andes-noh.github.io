@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[6353],{7494:t=>{t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ubuntu-ip-setting","name":"ubuntu ip setting","count":1,"permalink":"/blog/tags/ubuntu-ip-setting"}')}}]);

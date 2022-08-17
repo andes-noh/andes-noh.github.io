@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Tue, 16 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[netplan으로 우분투 ip 세팅하기(with WIFI)]]></title>
+            <link>https://andes-noh.github.io/blog/how  to ubuntu ip setting</link>
+            <guid>how  to ubuntu ip setting</guid>
+            <pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. LAN]]></description>
+        </item>
         <item>
             <title><![CDATA[우분투 설치 usb 만들기]]></title>
             <link>https://andes-noh.github.io/blog/make ubuntu install usb</link>

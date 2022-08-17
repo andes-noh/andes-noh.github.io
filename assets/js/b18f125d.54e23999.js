@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[3622],{568:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/netplan","name":"netplan","count":1,"permalink":"/blog/tags/netplan"}')}}]);
