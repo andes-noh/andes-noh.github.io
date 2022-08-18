@@ -1,6 +1,6 @@
 ---
 slug: how to install k3s
-title: 우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/2)
+title: 우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/4)
 authors: andes
 tags: [ubuntu, k8s, kubernetes, k3s, k9s, 쿠버네티스]
 ---
