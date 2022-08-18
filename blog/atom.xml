@@ -8,11 +8,22 @@
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/2)]]></title>
+        <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/4)]]></title>
         <id>how to install k3s</id>
         <link href="https://andes-noh.github.io/blog/how to install k3s"/>
         <updated>2022-08-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[1. k8s 관련 기본 개념정리]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(2/4)]]></title>
+        <id>how to install k9s</id>
+        <link href="https://andes-noh.github.io/blog/how to install k9s"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. k9s란?]]></summary>
         <author>
             <name>Andes Noh</name>
             <uri>https://github.com/andes-noh</uri>
