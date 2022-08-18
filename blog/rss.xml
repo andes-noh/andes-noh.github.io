@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Wed, 17 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/2)]]></title>
+            <link>https://andes-noh.github.io/blog/how to install k3s</link>
+            <guid>how to install k3s</guid>
+            <pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. k8s 관련 기본 개념정리]]></description>
+        </item>
         <item>
             <title><![CDATA[netplan으로 우분투 ip 세팅하기(with WIFI)]]></title>
             <link>https://andes-noh.github.io/blog/how  to ubuntu ip setting</link>

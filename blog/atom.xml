@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2022-08-17T00:00:00.000Z</updated>
+    <updated>2022-08-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(1/2)]]></title>
+        <id>how to install k3s</id>
+        <link href="https://andes-noh.github.io/blog/how to install k3s"/>
+        <updated>2022-08-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. k8s 관련 기본 개념정리]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[netplan으로 우분투 ip 세팅하기(with WIFI)]]></title>
         <id>how  to ubuntu ip setting</id>
