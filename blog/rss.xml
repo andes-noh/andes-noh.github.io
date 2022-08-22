@@ -9,8 +9,8 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(3/4)]]></title>
-            <link>https://andes-noh.github.io/blog/see k3s via local client(ssh)</link>
-            <guid>see k3s via local client(ssh)</guid>
+            <link>https://andes-noh.github.io/blog/see k3s via local client</link>
+            <guid>see k3s via local client</guid>
             <pubDate>Mon, 22 Aug 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[ssh 접속을 이용해 local pc에서 remote k3s 살펴보기]]></description>
         </item>

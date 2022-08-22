@@ -9,8 +9,8 @@
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(3/4)]]></title>
-        <id>see k3s via local client(ssh)</id>
-        <link href="https://andes-noh.github.io/blog/see k3s via local client(ssh)"/>
+        <id>see k3s via local client</id>
+        <link href="https://andes-noh.github.io/blog/see k3s via local client"/>
         <updated>2022-08-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[ssh 접속을 이용해 local pc에서 remote k3s 살펴보기]]></summary>
         <author>
