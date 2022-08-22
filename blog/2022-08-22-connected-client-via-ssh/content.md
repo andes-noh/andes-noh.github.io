@@ -1,5 +1,5 @@
 ---
-slug: see k3s via local client(ssh)
+slug: see k3s via local client
 title: 우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(3/4)
 authors: andes
 tags: [ubuntu, k8s, kubernetes, k3s, k9s, 쿠버네티스]
@@ -21,7 +21,7 @@ tags: [ubuntu, k8s, kubernetes, k3s, k9s, 쿠버네티스]
   - `scp -P [포트] [원격 서버 이름]@[원격서버 아이피]:[가져올 파일 경로] [붙여넣을 경로]`
   - 포트는 추가 옵션
   - 소유자 변경 할것
-    - 소유자 변경 명령은 이전 포스팅 확인
+    - 소유자 변경 명령(chown)은 이전 포스팅 확인
 
 - ### 원격 서버 ssh접속
 
