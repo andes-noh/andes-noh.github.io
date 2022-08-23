@@ -38,8 +38,8 @@ tags: [ubuntu, k8s, kubernetes, k3s, k9s, 쿠버네티스]
   - 인그레스 컨트롤러(ingress controller)는 자동으로 실행되지 않으며 클러스터에 가장 적합한 컨트롤러를 선택하여 구현
   - [k3s + nginx ingress controller(no traefik)][link]
     [link]: https://blog.thenets.org/how-to-create-a-k3s-cluster-with-nginx-ingress-controller/ 'k3s + nginx ingress controller'
-  - [참고][lin]
-    [lin]: https://twofootdog.tistory.com/23 `참고 링크`
+  - [Reference][ubu]
+    [ubu]: https://twofootdog.tistory.com/23 'Reference'
 
 - ### `secret`
 
