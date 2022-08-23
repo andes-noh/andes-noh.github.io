@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Mon, 22 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(4/4)]]></title>
+            <link>https://andes-noh.github.io/blog/k9s command</link>
+            <guid>k9s command</guid>
+            <pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[k9s로 k8s 주요 명령어 확인]]></description>
+        </item>
         <item>
             <title><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(3/4)]]></title>
             <link>https://andes-noh.github.io/blog/see k3s via local client</link>
