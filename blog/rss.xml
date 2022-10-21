@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Tue, 23 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[jenkins pipeline에서 sed 커맨드 사용하기]]></title>
+            <link>https://andes-noh.github.io/blog/sed command</link>
+            <guid>sed command</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[sed 커맨드 사용하기]]></description>
+        </item>
         <item>
             <title><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(4/4)]]></title>
             <link>https://andes-noh.github.io/blog/k9s command</link>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[9637],{2063:e=>{e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/jenkins","name":"jenkins","count":1,"permalink":"/blog/tags/jenkins"}')}}]);

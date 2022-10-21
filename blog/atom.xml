@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2022-08-23T00:00:00.000Z</updated>
+    <updated>2022-10-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[jenkins pipeline에서 sed 커맨드 사용하기]]></title>
+        <id>sed command</id>
+        <link href="https://andes-noh.github.io/blog/sed command"/>
+        <updated>2022-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[sed 커맨드 사용하기]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우분투에 k3s 설치해서 kubernetes 환경 구축하고 살펴보기(4/4)]]></title>
         <id>k9s command</id>
