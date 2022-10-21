@@ -118,3 +118,6 @@ image: ${YOUR CR}:latest
 ```
 image: ${YOUR _CR}:${YOUR _VERSION}
 ```
+
+- ### Reference
+  - [참고](https://devopsian.net/notes/sed-in-jenkinsfile/)
