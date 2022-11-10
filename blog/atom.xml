@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://andes-noh.github.io/blog</id>
     <title>안데스의 블로그 Blog</title>
-    <updated>2022-10-21T00:00:00.000Z</updated>
+    <updated>2022-11-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://andes-noh.github.io/blog"/>
     <subtitle>안데스의 블로그 Blog</subtitle>
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eks 구성하기(1) - vpc]]></title>
+        <id>eks</id>
+        <link href="https://andes-noh.github.io/blog/eks"/>
+        <updated>2022-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[순서]]></summary>
+        <author>
+            <name>Andes Noh</name>
+            <uri>https://github.com/andes-noh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[jenkins pipeline에서 sed 커맨드 사용하기]]></title>
         <id>sed command</id>
