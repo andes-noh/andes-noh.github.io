@@ -9,8 +9,8 @@
     <icon>https://andes-noh.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[eks 구성하기(2) - eks cluster 생성]]></title>
-        <id>eks</id>
-        <link href="https://andes-noh.github.io/blog/eks"/>
+        <id>eks cluster</id>
+        <link href="https://andes-noh.github.io/blog/eks cluster"/>
         <updated>2022-11-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[순서]]></summary>
         <author>
@@ -20,8 +20,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[eks 구성하기(1) - vpc 구성]]></title>
-        <id>eks</id>
-        <link href="https://andes-noh.github.io/blog/eks"/>
+        <id>eks vpc</id>
+        <link href="https://andes-noh.github.io/blog/eks vpc"/>
         <updated>2022-11-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[순서]]></summary>
         <author>
