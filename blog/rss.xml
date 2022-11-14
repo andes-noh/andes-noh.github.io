@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Thu, 10 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[eks 구성하기(2) - eks cluster 생성]]></title>
+            <link>https://andes-noh.github.io/blog/eks</link>
+            <guid>eks</guid>
+            <pubDate>Mon, 14 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[순서]]></description>
+        </item>
         <item>
             <title><![CDATA[eks 구성하기(1) - vpc 구성]]></title>
             <link>https://andes-noh.github.io/blog/eks</link>
