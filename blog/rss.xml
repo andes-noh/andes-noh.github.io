@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[eks 구성하기(1) - vpc]]></title>
+            <title><![CDATA[eks 구성하기(1) - vpc 구성]]></title>
             <link>https://andes-noh.github.io/blog/eks</link>
             <guid>eks</guid>
             <pubDate>Thu, 10 Nov 2022 00:00:00 GMT</pubDate>
