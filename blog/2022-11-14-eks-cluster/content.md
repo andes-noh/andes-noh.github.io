@@ -1,5 +1,5 @@
 ---
-slug: eks
+slug: eks cluster
 title: eks 구성하기(2) - eks cluster 생성
 authors: andes
 tags: [kubernetes, aws, eks, vpc]
@@ -8,12 +8,12 @@ tags: [kubernetes, aws, eks, vpc]
 ## 순서
 
 - ### vpc 구성(1)
-- **### eks cluster 생성(2)**
+- ### eks cluster 생성(2) - ★
 - ### worknode 생성 및 확인(3)
 
 ## eks cluster 생성
 
-- ### 기존 VPC 구성
+- ### 기존 VPC 구성도
   ![vpc](./vpc.png)
 
 #
