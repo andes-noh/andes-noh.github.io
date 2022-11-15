@@ -36,6 +36,11 @@ tags: [kubernetes, aws, eks, vpc]
     - 설명
     - VPC: EKS용 선택
     - 인바운드 규칙 추가: 사진과 같이 프로토콜 및 포트 지정(kubernetes 통신과 관련 있는 포트), 소스는 Bastion server 보안 그룹
+      - TCP: 443
+      - TCP: 10250
+      - TCP: 53
+      - UDP: 53
+    - [Amazon EKS 보안 그룹 요구 사항 및 고려 사항](https://docs.aws.amazon.com/ko_kr/eks/latest/userguide/sec-group-reqs.html)
 
 #
 
