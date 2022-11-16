@@ -10,6 +10,7 @@ tags: [kubernetes, aws, eks, vpc, worknode]
 - ### vpc 구성(1)
 - ### eks cluster 생성(2)
 - ### worknode 생성 및 확인(3) - ★
+- ### eks 삭제(4)
 
 ## worknode 생성 및 확인
 
