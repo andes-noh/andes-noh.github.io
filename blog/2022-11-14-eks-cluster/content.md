@@ -66,4 +66,10 @@ tags: [kubernetes, aws, eks, vpc]
 
 #
 
+- ### eks 생성중(수분 소요)
+  ![creating](./8.jpeg)
+
+#
+
 - ### eks 생성 완료
+  ![complete](./9.jpeg)

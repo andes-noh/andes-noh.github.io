@@ -98,7 +98,7 @@ tags: [kubernetes, aws, eks, vpc]
       - 서브넷 연결 -> 명시적 서브넷 연결 -> 서브넷 연결 편집 클릭
       - pri-a 서브넷 체크 및 연결 저장
       - 명시적 서브넷 연결 확인
-      - pub-c도 위와 같은 방식으로 연결
+      - pri-c도 위와 같은 방식으로 연결
 
     - public RT의 경우 라우팅에 같은 IGW 연결
     - private RT의 경우 라우팅에 각각 다른 NAT GW 연결
