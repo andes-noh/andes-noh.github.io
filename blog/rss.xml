@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[eks 구성하기(4) - eks 삭제]]></title>
+            <link>https://andes-noh.github.io/blog/eks worknode</link>
+            <guid>eks worknode</guid>
+            <pubDate>Wed, 16 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[순서]]></description>
+        </item>
+        <item>
             <title><![CDATA[eks 구성하기(3) - worknode 생성 및 확인]]></title>
             <link>https://andes-noh.github.io/blog/eks worknode</link>
             <guid>eks worknode</guid>
