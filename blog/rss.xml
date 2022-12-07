@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Wed, 16 Nov 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ssh -L 옵션]]></title>
+            <link>https://andes-noh.github.io/blog/ssh options</link>
+            <guid>ssh options</guid>
+            <pubDate>Wed, 07 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[환경]]></description>
+        </item>
         <item>
             <title><![CDATA[eks 구성하기(4) - eks 삭제]]></title>
             <link>https://andes-noh.github.io/blog/eks worknode</link>
