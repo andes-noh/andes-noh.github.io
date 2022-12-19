@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Wed, 07 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pem을 이용하여 ssh 접속하기]]></title>
+            <link>https://andes-noh.github.io/blog/ssh pem</link>
+            <guid>ssh pem</guid>
+            <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[pem이란]]></description>
+        </item>
         <item>
             <title><![CDATA[ssh -L 옵션]]></title>
             <link>https://andes-noh.github.io/blog/ssh options</link>

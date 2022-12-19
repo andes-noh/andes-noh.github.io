@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[1265],{1132:t=>{t.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/putty","name":"putty","count":1,"permalink":"/blog/tags/putty"}')}}]);

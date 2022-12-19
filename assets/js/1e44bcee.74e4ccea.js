@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[6637],{7532:p=>{p.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/ppk","name":"ppk","count":1,"permalink":"/blog/tags/ppk"}')}}]);
