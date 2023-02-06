@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Mon, 19 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[linux(macOS) AWS docker 토큰 & k8s secret 자동 갱신 스크립트]]></title>
+            <link>https://andes-noh.github.io/blog/ecr</link>
+            <guid>ecr</guid>
+            <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[선행조건]]></description>
+        </item>
         <item>
             <title><![CDATA[pem을 이용하여 ssh 접속하기]]></title>
             <link>https://andes-noh.github.io/blog/ssh pem</link>

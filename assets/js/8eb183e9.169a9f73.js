@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[6229],{9510:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/aws-token","name":"aws token","count":1,"permalink":"/blog/tags/aws-token"}')}}]);
