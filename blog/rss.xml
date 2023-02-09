@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[local <-> wsl port 연결하기]]></title>
+            <link>https://andes-noh.github.io/blog/wsl port</link>
+            <guid>wsl port</guid>
+            <pubDate>Thu, 09 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[현상]]></description>
+        </item>
         <item>
             <title><![CDATA[linux(macOS) AWS docker 토큰 & k8s secret 자동 갱신 스크립트]]></title>
             <link>https://andes-noh.github.io/blog/ecr</link>
