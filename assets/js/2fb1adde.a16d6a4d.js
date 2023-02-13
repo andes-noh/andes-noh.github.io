@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[7817],{4796:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/administrator-privileges","name":"administrator privileges","count":1,"permalink":"/blog/tags/administrator-privileges"}')}}]);

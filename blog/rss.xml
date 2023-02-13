@@ -4,9 +4,16 @@
         <title>안데스의 블로그 Blog</title>
         <link>https://andes-noh.github.io/blog</link>
         <description>안데스의 블로그 Blog</description>
-        <lastBuildDate>Thu, 09 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관리자 권한으로 bat 내용 실행하기]]></title>
+            <link>https://andes-noh.github.io/blog/administrator privileges bat</link>
+            <guid>administrator privileges bat</guid>
+            <pubDate>Mon, 13 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[scripts]]></description>
+        </item>
         <item>
             <title><![CDATA[local <-> wsl port 연결하기]]></title>
             <link>https://andes-noh.github.io/blog/wsl port</link>
